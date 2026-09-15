@@ -1,5 +1,2 @@
 # launch-console
-
-
-
-I can't wait to learn
+Building a cool startup
